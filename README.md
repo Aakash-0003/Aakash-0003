@@ -78,7 +78,7 @@ I enjoy building systems from scratch, understanding how things work internally,
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Aakash-0003
-- LinkedIn:[ *(add once ready)*](https://www.linkedin.com/in/aakash-tomar-1776431aa/)
+- LinkedIn: https://www.linkedin.com/in/aakash-tomar-1776431aa/
 
 ---
 
